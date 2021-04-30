@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://canostra.000webhostapp.com/">
-    <img src="/images/logo.png" alt="Screenshot" style="border-radius: 9999px">
+    <img src="/images/logo.png" alt="Screenshot" style="border-radius: 9999px;">
   </a>
 
   <h3 align="center">Ca'Nostra | WordPress Website</h3>
@@ -25,7 +25,7 @@
     <br />
     <a href="https://canostra.000webhostapp.com/">Live Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Segnala Bug</a>
+    <a href="https://github.com/matteo-minerva/wordpress-canostra/issues">Report Bug</a>
   </p>
 </p>
 
@@ -90,7 +90,9 @@ Note: more info on the [developers website](https://snapcreek.com/duplicator/doc
 <!-- Usage -->
 
 ## Usage
+
 In order to use it, you must login as:
+
 ```text
 username: admin
 password: K@g2DSupYfv#1^i*mTgSUyIR

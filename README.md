@@ -50,7 +50,7 @@
 
 ## About The Project
 
-[![Website Screenshot][product-screenshot]](https://example.com)
+[![Website Screenshot][product-screenshot]](https://canostra.000webhostapp.com/)
 
 For this project, you have to imagine that you are in charge of the digitalization process of a classic offline business (artisans, clothing stores, bars, etc.).
 
